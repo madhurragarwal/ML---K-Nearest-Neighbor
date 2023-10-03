@@ -17,6 +17,7 @@ This project demonstrates the implementation of a K-Nearest Neighbors (KNN) mach
 The dummy dataset used in this project is located in the repository. It includes the following files:
 
 * Classified_data: The main dataset containing features and labels.
+* KNN_Project_data: The main dataset containing features and labels.
 
 ## Usage
 
