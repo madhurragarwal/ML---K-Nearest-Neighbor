@@ -28,7 +28,7 @@ The dummy dataset used in this project is located in the repository. It includes
 ### Training the KNN Model
 1. Split the dataset into training and testing sets.
 2. Train the KNN model.
-3. Do Hyperparameter Tuning.
+3. Do Hyperparameter Tuning
 
 ### Evaluation
 Evaluate the KNN model on the test dataset.
